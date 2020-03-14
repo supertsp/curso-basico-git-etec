@@ -1,0 +1,40 @@
+COMANDOS BÁSICOS
+
+	1º) Copiar um repositório online
+		
+		git clone [url do repositório]
+	
+	
+	2º) Adicionar mudanças na branch (timeline)
+		
+		git add .
+		
+		
+	3º) Verificar mudanças no repositório local
+		
+		git status
+	
+	
+	4º) Fazer um comentário sobre as mudanças
+		
+		git commit -m "[comentário]"
+
+		
+	5º) Fazer upload das atualizações locais
+		para nuvem
+		
+		git push
+		
+	6º) Fazer download das atualizações da nuvem
+		para máquina local
+		
+		git pull
+		
+	7º) Baixar apenas o status das atualizações
+		da nuvem
+		
+		git fetch
+		git status
+		
+	8º) Fazer login no Github via git
+		
