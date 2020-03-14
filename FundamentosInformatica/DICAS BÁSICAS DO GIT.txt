@@ -37,4 +37,6 @@ COMANDOS BÁSICOS
 		git status
 		
 	8º) Fazer login no Github via git
-		
+	
+git config --global user.email "tiago.souza.pedroso@gmail.com"
+git config --global user.name "supertsp"
