@@ -39,3 +39,5 @@
     
         git config --global user.email "[seu email do Github]"
         git config --global user.name "[seu usuário do Github]"
+
+9. testes
