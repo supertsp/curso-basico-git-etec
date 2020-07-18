@@ -40,9 +40,6 @@
         git config --global user.email "[seu email do Github]"
         git config --global user.name "[seu usuário do Github]"
 
-9. batata
+9. **COMO FAZER UM SITE COM GITHUB**
 
-
-10. fome
-
-11. outra linha
+        https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14
