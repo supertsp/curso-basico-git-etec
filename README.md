@@ -42,9 +42,5 @@
 
 9. batata
 
-<<<<<<< HEAD
-10. mais um item
-=======
 
 10. fome 
->>>>>>> 0516cb840d728634e5d5bfb7e0466721f87d7b2c
