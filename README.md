@@ -43,4 +43,4 @@
 9. batata
 
 
-10. fome 
+10. fome
