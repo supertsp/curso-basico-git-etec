@@ -40,6 +40,11 @@
         git config --global user.email "[seu email do Github]"
         git config --global user.name "[seu usuário do Github]"
 
-9. **COMO FAZER UM SITE COM GITHUB**
+9. **Como permitir tráfego de arquivos com nomes longos** 
+    
+        git config --system core.longpaths true
+
+
+10. **COMO FAZER UM SITE COM GITHUB**
 
         https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14
