@@ -55,6 +55,11 @@
         git checkout -b [nome da nova branch]
 
 
-12. **COMO FAZER UM SITE COM GITHUB**
+12. **Como subir a nova branch (local) para nuvem** 
+    
+        git push --set-upstream origin [nome da nova branch]
+
+
+13. **COMO FAZER UM SITE COM GITHUB**
 
         https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14
