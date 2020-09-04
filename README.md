@@ -45,6 +45,16 @@
         git config --system core.longpaths true
 
 
-10. **COMO FAZER UM SITE COM GITHUB**
+10. **Como mudar de branch** 
+    
+        git checkout [nome da branch]
+
+
+11. **Como criar uma nova branch (local) e mudar ao mesmo tempo para ela** 
+    
+        git checkout -b [nome da nova branch]
+
+
+12. **COMO FAZER UM SITE COM GITHUB**
 
         https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14
