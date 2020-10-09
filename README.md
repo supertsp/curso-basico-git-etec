@@ -69,4 +69,9 @@
     
         git config http.sslVerify "false"
 
+15. **Quando uma Senha é alterada na Nuvem, Como alterar no Git Local [Windows]?** 
+    
+        Abra: Painel de Controle\Contas de Usuário\Gerenciador de Credenciais
+        Depois: Selecione "Credenciais Windows", selecione qual credencial deseja e clique em "Editar"
+
 
