@@ -56,9 +56,10 @@
         git push --set-upstream origin [nome da nova branch]
 
 
-12. **COMO FAZER UM SITE COM GITHUB**
+12. **Como fazer e publicar um site no Github**
 
         https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14
+
 
 13. **Como permitir tráfego de arquivos com nomes longos** 
     
@@ -69,7 +70,15 @@
     
         git config http.sslVerify "false"
 
-15. **Quando uma Senha é alterada na Nuvem, Como alterar no Git Local [Windows]?** 
+
+15. **Como descobrir as modificações/contribuições de cada usuário em um determinado arquivo** 
+    
+        git blame -W -C -M [nome do arquivo]
+    ou
+        git blame -W -C -M [nome do arquivo] > [endereço + nome do arquivo a ser criado]
+
+
+16. **Quando uma Senha é alterada na Nuvem, Como alterar no Git Local [Windows]?** 
     
         Abra: Painel de Controle\Contas de Usuário\Gerenciador de Credenciais
         Depois: Selecione "Credenciais Windows", selecione qual credencial deseja e clique em "Editar"
