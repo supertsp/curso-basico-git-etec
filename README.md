@@ -74,7 +74,9 @@
 15. **Como descobrir as modificações/contribuições de cada usuário em um determinado arquivo** 
     
         git blame -W -C -M [nome do arquivo]
+    
     ou
+        
         git blame -W -C -M [nome do arquivo] > [endereço + nome do arquivo a ser criado]
 
 
