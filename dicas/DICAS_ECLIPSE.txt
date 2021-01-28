@@ -1,0 +1,101 @@
+==============================================================================
+=   ECLIPSE: ATALHOS
+==============================================================================
+	Como trocar atalhos
+		>> Window > Preferences > General > Keys
+
+
+	Pesquisa por Classe
+		CTRL + ALT + T
+
+
+	Auto Completar:
+		CTRL + SPACE
+
+
+	Duplicar Linha:
+		CTRL + ALT + UP  (mude para Ctrl + D)
+
+
+	Apagar Linha:
+		CTRL + D (mude para Ctrl + SHIFT + D)
+
+
+	Salvar Arquivo:
+		CRTL + S (mude para Ctrl + SHIFT + S)
+
+
+	Salvar Todos os Arquivos:
+		CRTL + SHIFT + S (mude para Ctrl + S)
+
+
+	Refatorar/Renomear:
+		ALT + SHIFT + R (mude para CTRL + R)
+
+
+	Formatar Código:
+		CTRL + SHIFT + F
+
+
+	Alterar Assinatura de Método:
+		ALT + SHIFT + C
+
+
+	Comentar:
+		CTRL + / ou CTRL + SHIFT + C
+
+
+	Corrigir Código (Quick Fix):
+		CTRL + 1
+
+
+	Inserir Trechos de Códigos:
+		ALT + SHIFT + S
+
+
+	Executar o Arquivo Atual:
+		CTRL + F11
+
+
+	Executar no modo Debug:
+		F11
+
+
+	Abrir Janela de Alteração/Pesquisa de Atalhos
+		CTRL + SHIFT + L
+
+
+	Mover Linhas (Cima/Baixo)
+		ALT + [SETAS CIMA/BAIXO]
+		
+		
+	Gerar Getter/Setter
+		ALT + INS (Criar esse em: "Generate Getters and Setters")
+		
+==============================================================================
+=   ECLIPSE: OUTRAS DICAS
+==============================================================================
+	Alterar econdig para UTF-8
+		>> Window > Preferences > Na área de pesquisa digitar "encoding"
+		
+		depois abre cada item abaixo e muda para UTF-8
+			General > Workspace
+			Web > CSS Files
+			Web > HTML Files
+			Web > JSP Files
+			XML > XML Files
+	
+	
+	Desabilitar o Corretor Ortográfico
+		>> Window > Preferences > General > Editors > Text Editors > Spelling
+
+
+	Dark Theme
+		https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle
+
+		ou
+
+		1) Clicar em menu "Help" > "Eclipse Marketplace"
+		2) Digite "dark theme" na barra de pesquisa  "Find"
+		3) Clique em "Install" no tema "Darkest Dark Theme"
+

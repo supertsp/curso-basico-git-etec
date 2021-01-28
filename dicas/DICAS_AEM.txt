@@ -1,0 +1,45 @@
+===========================================================================================================
+   DOCUMENTAÇÃO + TUTORIAIS ADOBE EXPERIENCE MANAGER
+===========================================================================================================	
+
+Tutorial Inicial	
+	https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html
+	
+	https://helpx.adobe.com/experience-manager/6-3/sites/developing/user-guide.html
+	
+
+Estrutura de Pastas AEM - item 5
+	https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/project-setup.html
+
+
+
+GRANITE DOCS
+	https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/granite-ui/api/jcr_root/libs/granite/ui/index.html
+
+
+BLOCK STATEMENTS - HTL BLOCK IF
+	https://docs.adobe.com/content/help/en/experience-manager-htl/using/htl/block-statements.html
+
+
+TIPS AEM BLOCK STATEMENTS
+	https://www.netcentric.biz/insights/2015/08/aem-sightly-style-guide.html
+
+
+AEM COMPONENTS EXAMPLE
+	https://www.aemcomponents.dev
+
+
+AEM Project Archetype
+	https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/overview.html
+	
+	mvn -B archetype:generate -D archetypeGroupId=com.adobe.aem -D archetypeArtifactId=aem-project-archetype -D archetypeVersion=24 -D appTitle="My Site" -D appId="mysite" -D groupId="com.mysite"
+	   
+	ou
+	
+	mvn archetype:generate -B -DarchetypeGroupId=com.adobe.granite.archetypes -DarchetypeArtifactId=aem-project-archetype -DarchetypeVersion=22 -DgroupId=com.adobe.aem.guides -Dversion=0.0.1-SNAPSHOT -DappsFolderName=wknd -DartifactId=aem-guides-wknd -Dpackage=com.adobe.aem.guides.wknd -DartifactName="WKND Sites Project" -DcomponentGroupName=WKND -DconfFolderName=wknd -DcontentFolderName=wknd -DcssId=wknd -DisSingleCountryWebsite=n -Dlanguage_country=en_us -DoptionAemVersion=6.5.0 -DoptionDispatcherConfig=none -DoptionIncludeErrorHandler=n -DoptionIncludeExamples=y -DoptionIncludeFrontendModule=y -DpackageGroup=wknd -DsiteName="WKND Site"
+	   
+	mvn clean install -PautoInstallSinglePackage
+		opcional: -Daem.port=4504
+		
+	mvn clean install -PautoInstallPackage
+	mvn clean install -PautoInstallBundle
