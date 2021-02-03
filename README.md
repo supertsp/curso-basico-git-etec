@@ -80,7 +80,22 @@
         git blame -W -C -M [nome do arquivo] > [endereço + nome do arquivo a ser criado]
 
 
-16. **Quando uma Senha é alterada na Nuvem, Como alterar no Git Local [Windows]?** 
+16. **Como fazer Merge (fusão) entre 2 branches** 
+    
+        git merge [nome da brach que está pegando]
+    
+    ou
+        
+        git merge --no-ff [nome da brach que está pegando]
+
+
+17. **Como criar um Tag (marcador) nos commits para indicar versões (releases) de código** 
+    
+        git tag -a [versao] -m "Release [versao]"
+			     git push --tags
+
+
+18. **Quando uma Senha é alterada na Nuvem, Como alterar no Git Local [Windows]?** 
     
         Abra: Painel de Controle\Contas de Usuário\Gerenciador de Credenciais
         Depois: Selecione "Credenciais Windows", selecione qual credencial deseja e clique em "Editar"
