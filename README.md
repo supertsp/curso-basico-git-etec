@@ -92,7 +92,8 @@
 17. **Como criar um Tag (marcador) nos commits para indicar versões (releases) de código** 
     
         git tag -a [versao] -m "Release [versao]"
-			     git push --tags
+
+        git push --tags
 
 
 18. **Quando uma Senha é alterada na Nuvem, Como alterar no Git Local [Windows]?** 
