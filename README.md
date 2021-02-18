@@ -37,8 +37,9 @@
     
 8. **Fazer login no Github via git** 
     
+        git config --global user.nickname "[seu usuário do Github]"
         git config --global user.email "[seu email do Github]"
-        git config --global user.name "[seu usuário do Github]"
+        git config --global user.name "[seu nome]"
 
 
 9. **Como mudar de branch** 
