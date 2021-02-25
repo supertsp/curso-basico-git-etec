@@ -33,7 +33,7 @@
         git fetch
         git status
     
-8. **Fazer login no Github via git** 
+8. **Como alterar variáveis do Git para fazer login no Github** 
     
         git config --global user.nickname "[seu usuário do Github]"
         git config --global user.email "[seu email do Github]"
