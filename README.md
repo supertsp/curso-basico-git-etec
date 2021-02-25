@@ -1,4 +1,4 @@
-# Curso Básico de Bash Linux com Git e Github para Etec Prof. Camargo Aranha
+# Curso Básico de Bash Linux com Git e Github
  
 ## Comandos Básicos do Git
 
@@ -97,7 +97,18 @@
         git push --tags
 
 
-18. **Quando uma Senha é alterada na Nuvem, Como alterar no Git Local [Windows]?** 
+18. **Como mudar as alterações de código de uma branch para outra** 
+    
+        (branch-01) $ git stash
+
+        (branch-01) $ git checkout branch-02
+        
+        (branch-02) $ git stash pop 
+
+
+
+
+19. **Quando uma Senha é alterada na Nuvem, Como alterar no Git Local [Windows]?** 
     
         Abra: Painel de Controle\Contas de Usuário\Gerenciador de Credenciais
         Depois: Selecione "Credenciais Windows", selecione qual credencial deseja e clique em "Editar"
