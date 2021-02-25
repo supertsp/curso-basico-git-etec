@@ -1,6 +1,4 @@
 # Curso Básico de Bash Linux com Git e Github
- 
-## Comandos Básicos do Git
 
 1. **Copiar um repositório online**    
     
