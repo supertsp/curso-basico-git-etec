@@ -110,7 +110,6 @@
     
         Abra: Painel de Controle\Contas de Usuário\Gerenciador de Credenciais
         Depois: Selecione "Credenciais Windows", selecione qual credencial deseja e clique em "Editar"
-        dsfsf
         
     ou 
        
