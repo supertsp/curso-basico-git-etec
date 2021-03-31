@@ -110,5 +110,12 @@
     
         Abra: Painel de Controle\Contas de Usuário\Gerenciador de Credenciais
         Depois: Selecione "Credenciais Windows", selecione qual credencial deseja e clique em "Editar"
+        dsfsf
+        
+  ou 
+       
+        git config --list                               --> para ver as configurações
+        git remote set-url origin https://[nova URL]    --> para alterar a url de conexão atual
+
 
 
