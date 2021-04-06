@@ -73,6 +73,10 @@
 15. **Como permitir uso do git em redes sem SSL ou com problemas de certificado** 
     
         git config http.sslVerify "false"
+        
+    ou
+        
+        git config --global http.sslVerify false
 
 
 16. **Como descobrir as modificações/contribuições de cada usuário em um determinado arquivo** 
