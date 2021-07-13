@@ -97,11 +97,22 @@
         git merge --no-ff [nome da brach que está pegando]
 
 
-18. **Como criar um Tag (marcador) nos commits para indicar versões (releases) de código** 
-    
+18. **Como trabalhar com Tag (marcadores) para destacar Releases de código** 
+
+    Criando uma tag  
+
         git tag -a [versao] -m "Release [versao]"
 
         git push --tags
+        
+    Listando Tags locais
+       
+        git tag 
+        
+    Excluindo uma Tag local
+       
+        git tag -d [nome da tag]
+
 
 
 19. **Como mudar as alterações de código de uma branch para outra** 
